@@ -1,0 +1,42 @@
+export const PROJECTS = [
+  {
+    title: 'Bohemian Rhapsody Player',
+    tags: ['React', 'Web Audio API', 'CSS Animations'],
+    desc: "A beautifully designed music player UI inspired by Queen's iconic Bohemian Rhapsody. Features glassmorphism design, progress control, and album art display.",
+    colors: '#c97ad4,#3a1f4a',
+    img: '/images/music.jpg',
+    href: 'https://www.figma.com/design/8pY3K0MTRw3LmBEk8R8ndW/Challenge2?node-id=0-1&t=yC0XJZPoG7lDvh91-1',
+  },
+  {
+    title: 'Pulse Pro Smartwatch App',
+    tags: ['React Native', 'Health API', 'Node.js'],
+    desc: 'E-commerce product card for the Pulse Pro Smartwatch featuring health tracking, 7-day battery life, and swimproof design. Priced at ₱4,299.',
+    colors: '#3b9eff,#102a4a',
+    img: '/images/watch.jpg',
+    href: 'https://www.figma.com/design/aW8LiV2uGDPGaUlALU3uEf/Challenge1?node-id=0-1&t=t8dOBLuRjLLadDki-1',
+  },
+  {
+    title: 'Siklab — Career Platform',
+    tags: ['React', 'Node.js', 'Career Dev'],
+    desc: 'Ignite Your Career, One Task at a Time. Siklab is a career development platform that helps students and professionals grow through actionable tasks and community support.',
+    colors: '#ff6b35,#4a1d0a',
+    img: '/images/siklab.jpg',
+    href: 'https://www.figma.com/proto/WSL2c4wKWHOZznEZpfeWP6/Siklab?node-id=191-271&p=f&t=d9l3IOxAjeFScaPp-1&scaling=contain&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=191%3A209',
+  },
+  {
+    title: 'Portfolio-V1',
+    tags: ['Portfolio', 'UI/UX Design', 'Web Design'],
+    desc: 'A personal portfolio showcasing my work as a frontend developer, UI/UX designer, and creative coder.',
+    colors: '#d07b6f,#f1e8df',
+    img: '/images/portfolio-v1.png',
+    href: 'https://portfolio-beta-puce-54.vercel.app/',
+  },
+  {
+    title: 'UServe',
+    tags: ['Community Portal', 'Public Services', 'Volunteer & Events'],
+    desc: 'A community information and volunteer portal for Barangay Ungka II, featuring local services, news and updates, events, and public servant information.',
+    colors: '#008c68,#063b32',
+    img: '/images/userve.png',
+    href: 'https://ungka-portal.vercel.app/',
+  },
+];
